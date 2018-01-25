@@ -1,10 +1,49 @@
+# elegant stoat
+
+A warm, fuzzy CSS kit for the modern internets. The most regal of critters.
+
+Elegant Stoat aims to be a beautiful default styling for _any_ website, using the most modern toolsets and features.
+
+- [elegant stoat](#elegant-stoat)
+  - [Styles](#styles)
+    - [Grid](#grid)
+    - [Two-Column](#two-column)
+    - [Three-Column](#three-column)
+  - [Customization](#customization)
+  - [Elements](#elements)
+    - [Sectioning](#sectioning)
+    - [Text Content](#text-content)
+    - [Edits](#edits)
+    - [Scripting](#scripting)
+    - [Images & Multimedia](#images-multimedia)
+    - [Embedded Content](#embedded-content)
+    - [Tables](#tables)
+    - [Forms](#forms)
+    - [Interactive elements](#interactive-elements)
+
+## Styles
+
+Elegant stoat includes layout styles! By default, it is useful for editorial content, but maybe you want a consistent look and feel for your homepage? Good! You should. These are how you do that thing.
+
+### Grid
+
+### Two-Column
+
+### Three-Column
+
+## Customization
+
+To Do
+
+## Elements
+
 ```html
 <html manifest>
 
 <body onafterprint onbeforeprint onbeforeunload onblur onerror onfocus onhashchange onload onmessage onoffline ononline onpagehide onpageshow onpopstate onresize onscroll onstorage onunload>
 ```
 
-// Sectioning
+### Sectioning
 ```html
 <address>
 <article>
@@ -22,7 +61,7 @@
 <section>
 ```
 
-// Text Content
+### Text Content
 ```html
 <blockquote cite>
 <dd>
@@ -72,7 +111,7 @@
 <wbr>
 ```
 
-// Edits
+### Edits
 ```html
 <ins cite datetime>
 <del cite datetime>
@@ -80,14 +119,14 @@
 <iframe src srcdoc name sandbox seamless width height>
 ```
 
-// Scripting
+### Scripting
 ```html
 <canvas width height>
 <noscript>
 <script src async defer type charset>
 ```
 
-// Images & Multimedia
+### Images & Multimedia
 ```html
 <area alt coords shape href target ping rel media hreflang type>
 <audio src crossorigin preload autoplay mediagroup loop muted controls>
@@ -97,7 +136,7 @@
 <video src crossorigin poster preload autoplay mediagroup loop muted controls width height>
 ```
 
-// Embedded Content
+### Embedded Content
 ```html
 <embed src type width height>
 <object data type typemustmatch name usemap form width height>
@@ -105,7 +144,7 @@
 <source src type media>
 ```
 
-// Tables
+### Tables
 ```html
 <caption>
 <col span>
@@ -119,7 +158,7 @@
 <tr>
 ```
 
-// Forms
+### Forms
 ```html
 <button autofocus disabled form formaction formenctype formmethod formnovalidate formtarget name type value>
 <datalist option>
@@ -137,7 +176,7 @@
 <textarea autocomplete autofocus cols dirname disabled form inputmode maxlength name placeholder readonly required rows wrap>
 ```
 
-// Interactive elements
+### Interactive elements
 ```html
 <details open>
 <dialog open>
