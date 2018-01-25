@@ -2,9 +2,10 @@
 
 A warm, fuzzy CSS kit for the modern internets. The most regal of critters.
 
-Elegant Stoat aims to be a beautiful default styling for _any_ website, using the most modern toolsets and features.
+Elegant Stoat aims to be a beautiful, minimal, default styling for _any_ website, using the most modern toolsets and features.
 
 - [elegant stoat](#elegant-stoat)
+  - [Principles / Techniques](#principles-techniques)
   - [Styles](#styles)
     - [Grid](#grid)
     - [Two-Column](#two-column)
@@ -21,6 +22,13 @@ Elegant Stoat aims to be a beautiful default styling for _any_ website, using th
     - [Forms](#forms)
     - [Interactive elements](#interactive-elements)
 
+## Principles / Techniques
+
+  - Minimalistic & Lightweight CSS
+  - Modern CSS
+  - Fluid Typography
+  - Semantic
+
 ## Styles
 
 Elegant stoat includes layout styles! By default, it is useful for editorial content, but maybe you want a consistent look and feel for your homepage? Good! You should. These are how you do that thing.
@@ -33,7 +41,7 @@ Elegant stoat includes layout styles! By default, it is useful for editorial con
 
 ## Customization
 
-To Do
+To Do!
 
 ## Elements
 
