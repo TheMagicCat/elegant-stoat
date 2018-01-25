@@ -1,0 +1,142 @@
+html {}
+body {}
+
+
+/* Sectioning */
+
+address {}
+article {}
+aside {}
+footer {}
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+h6 {}
+header {}
+hgroup {}
+nav {}
+section {}
+
+
+/* Text Content */
+
+blockquote {}
+dd {}
+div {}
+dl {}
+dt {}
+figcaption {}
+figure {}
+hr {}
+li {}
+main {}
+ol {}
+p {}
+pre {}
+ul {}
+
+
+/* Inline Elements */
+
+a {}
+abbr {}
+b {}
+bdi {}
+bdo {}
+br {}
+cite {}
+code {}
+data {}
+dfn {}
+em {}
+i {}
+kbd {}
+mark {}
+q {}
+rp {}
+rt {}
+ruby {}
+s {}
+samp {}
+small {}
+span {}
+strong {}
+sub {}
+sup {}
+time {}
+u {}
+var {}
+wbr {}
+
+
+/* Edits */
+
+ins {}
+del {}
+iframe {}
+
+
+/* Scripting */
+
+canvas {}
+noscript {}
+script {}
+
+
+/* Images & Multimedia */
+
+area {}
+audio {}
+img {}
+map {}
+track {}
+video {}
+
+
+/* Embedded Content */
+
+embed {}
+object {}
+param {}
+source {}
+
+
+/* Tables */
+
+caption {}
+col {}
+colgroup {}
+table {}
+tbody {}
+td {}
+tfoot {}
+th {}
+thead {}
+tr {}
+
+
+/* Forms */
+
+button {}
+datalist {}
+fieldset {}
+form {}
+input {}
+label {}
+legend {}
+meter {}
+optgroup {}
+option {}
+output {}
+progress {}
+select {}
+textarea {}
+
+
+/* Interactive elements */
+
+details {}
+dialog {}
+summary {}
